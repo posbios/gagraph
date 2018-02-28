@@ -1,0 +1,13 @@
+/home/andoni/workspace/GAAlgorithmJava/src/main/java/com/bitexception/rest/filter/ResponseFilter.java
+/home/andoni/workspace/GAAlgorithmJava/src/main/java/com/bitexception/genetic/feed/Ibex35WebFeeder.java
+/home/andoni/workspace/GAAlgorithmJava/src/main/java/com/bitexception/nio/HttpConversation.java
+/home/andoni/workspace/GAAlgorithmJava/src/main/java/com/bitexception/nio/Conversation.java
+/home/andoni/workspace/GAAlgorithmJava/src/main/java/com/bitexception/rest/command/finance/InfoServerCommand.java
+/home/andoni/workspace/GAAlgorithmJava/src/main/java/com/bitexception/genetic/algorithm/IbexGenetic.java
+/home/andoni/workspace/GAAlgorithmJava/src/main/java/com/bitexception/genetic/algorithm/NumberGenetic.java
+/home/andoni/workspace/GAAlgorithmJava/src/main/java/com/bitexception/rest/filter/ServerResponse.java
+/home/andoni/workspace/GAAlgorithmJava/src/main/java/com/bitexception/genetic/algorithm/NameGenetic.java
+/home/andoni/workspace/GAAlgorithmJava/src/main/java/com/bitexception/rest/command/UriCommand.java
+/home/andoni/workspace/GAAlgorithmJava/src/main/java/com/bitexception/genetic/algorithm/Genetic.java
+/home/andoni/workspace/GAAlgorithmJava/src/main/java/com/bitexception/rest/filter/Filter.java
+/home/andoni/workspace/GAAlgorithmJava/src/main/java/com/bitexception/genetic/Main.java
